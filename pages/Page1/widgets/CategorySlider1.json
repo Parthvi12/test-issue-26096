@@ -5,8 +5,8 @@
     "iconSVG": "/static/media/icon.f4e7e4a6fc4a57659f2d2e736486e335.svg",
     "labelText": "Size",
     "searchTags": ["range"],
-    "topRow": 26,
-    "bottomRow": 34,
+    "topRow": 33,
+    "bottomRow": 41,
     "parentRowSpace": 10,
     "labelWidth": 5,
     "type": "CATEGORY_SLIDER_WIDGET",
@@ -59,8 +59,8 @@
     "isLoading": false,
     "mobileTopRow": 26,
     "responsiveBehavior": "fill",
-    "originalTopRow": 26,
+    "originalTopRow": 33,
     "mobileLeftColumn": 12,
-    "originalBottomRow": 34,
+    "originalBottomRow": 41,
     "showMarksLabel": true
 }
